@@ -6,3 +6,4 @@
 ### GitHub Personal Profile: https://github.com/kyriaki-kyriakidou , https://github.com/Evangelia-Triantafyllia-Chatzichristofi
 
 
+[Ψηφιακές_Μορφές_Αφηγήσεις.pdf](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Group-Assignment/files/11113068/_._.pdf)
