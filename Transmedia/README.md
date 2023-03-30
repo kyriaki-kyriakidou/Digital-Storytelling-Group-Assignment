@@ -5,5 +5,6 @@
 ### University Registration Number:  dpsd20056, dpsd20131
 ### GitHub Personal Profile: https://github.com/kyriaki-kyriakidou , https://github.com/Evangelia-Triantafyllia-Chatzichristofi
 
+παρακατω ειναι το pdf  για την εργασια μας
 
-[Ψηφιακές_Μορφές_Αφηγήσεις.pdf](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Group-Assignment/files/11113068/_._.pdf)
+https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Group-Assignment/files/11113068/_._.pdf
