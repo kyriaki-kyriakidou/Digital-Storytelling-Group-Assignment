@@ -89,34 +89,14 @@ The Struggling Artist
 8.3. How the project keeps the VUP engaged?..........................................................14
 8.4. What are the mechanisms of interaction in this project?.........................................14
 8.5. Is there also participation involved in the project?.................................................14
-8.6. Does the project work as cultural attractor/activator?.............................................15
-8.7. How does the VUP affect the outcome? What do they add to the storyworld?.............15
-8.8. Are there UGC related to the story?................................................................................15
-8.9. Does the project offer the VUP the possibility of immersion into the storyworld?...........15
-8.10. Does it offer possibilities to take elements and incorporate them into everyday?.........15
-8.11. Is there an important goal that the VUP is trying to accomplish in the project?.............15
-8.12. What will make the VUP want to spend time accomplishing this Goal?........................15
-8.13. What adds tension to the experience? Are there any ticking Clocks?............................16
-8.14. Is there a system of rewards and penalties?.......................................................16
-3
-9. Structure............................................................................................................16
-9.1. When did the transmediation begin? Is it a proactive or retroactive TS project?.............16
-9.2. Is it possible to identify any consequences for the project?.............................................16
-9.3. Is this project closer to a transmedia franchise or a complex transmedia experience?...16
-9.4. Can each extension work as on Independent entry point for the Story?..........................16
-9.5. What are/were possible endpoints of the project?............................................................16
-9.6. How is the project structured? What are the major units of Organisation?......................17
-9.7. How could a map of the story-world be presented?................................................17
-10. Aesthetics.........................................................................................................17
-10.1. What kinds of visuals are being used in the project?...................................................17
-10.2. Is the overall look realistic or a fantasy environment?.........................................17
-10.3. Is it possible to identify specific design styles in the project?.................................17
-10.4. How does audio work in this project?..............................................................17
-4
+
 1. Premise and purpose
+
 Ο σκοπός είναι να γραφεί μια ιστορία που φέρει στο προσκήνιο κοινούς προβληματισμούς, να
 προσπαθήσει να συνδεθεί με το κοινό και να δώσει ένα βαθύτερο νόημα στο βασικό πρόβλημα.
+
 1.1. What is the project about?
+
 Η ιστορία αφορά μια νεαρή ζωγράφο που αντιμετωπιζει προβλήματα με την καριέρα της. Το
 άγχος και πίεση αρχίζει να την καταβάλει καθώς τα στενά χρονικά όρια, η προσμονή και οι
 προσδοκίες του κόσμου για το καινούργιο της έργο πλησιάζουν όλο και περισσότερο. Από αυτή
@@ -125,23 +105,32 @@ The Struggling Artist
 μορφή ενός εφιάλτη. Όσο ο χρόνος περνάει η παλίρροια της πίεσης γίνεται πιο έντονη με
 αποτελεσμα η νεαρή ζωγράφος να βυθίζεται όλο και περισσότερο. Ωστόσο τελικά, θα καταφέρει
 να νικήσει το ρεμα και να θυμηθεί τι πραγματικα σημενει η τέχνη για εκείνη.
+
 1.2. What is the project’s core?
+
 Η ψυχή της ιστορίας είναι να μοιραστεί τις ανησυχίες και τους προβληματισμούς που μπορει να
 αποκτήσει ενας ζωγραφος μεσο της φημης καθως πλεον υπαρχουν προσδοκίες και απο αλλους.
 Αναδύεται στο προσκήνιο και απαντά στο ερωτημα “What is art to you ?” αφηνοντας ταυτοχρονα
-περιθωριο στον θεατη να διαμορφωσει την δικη του απαντηση.
+περιθωριο στον θεατη να διαμορφωσει τηντου απαντηση.
+
+
 1.3. Is it a fictional, a non-fiction or a mixed project?
+
 Το πρότζεκτ αυτό είναι μια μίξη αναμεσα σε φαντασια και πραγματικοτητα καθως
 παρουσιάζονται αληθινα καθημερινα προβληματα που απεικονίζονται μεσω φανταστικων
 στοιχειων.
+
 1.4. What is its fundamental purpose?
+
 Ο βασικός σκοπος της ταινιας είναι να αναδείξει τα προβληματα που μπορει να αντιμετωπισει
 ενας ζωγραφος. Ωστοσο αυτο επιτυγχανεται μεσω απο αισθητικα ομορφες σκηνες και
 συμβολισμους για την διασκέδαση του θεατη. Επιπλέον εντάσσεται μια κύρια συμβουλή για το
 τρόπο πως μπορει να το αντιμετωπισει.
-5
+
 2. Narrative
+
 2.1. What are the narrative elements (such as plot, theme, characters, etc.) of the project?
+
 Η υπόθεση αφορά μια νεαρή ζωγράφο, ( αποφασίστηκε να μην αναφερθεί όνομα καθως ο
 στόχος είναι ο κάθε θεατής να μπορέσει να ταυτιστεί με τον χαρακτήρα ) μένει μονη της, μακριά
 από το σπίτι, την οικογένειά και φίλους της. Προσπαθει να τελειωσει το εργο τέχνης της χωρίς
@@ -150,13 +139,22 @@ The Struggling Artist
 μεταφέρετε στο ονειρο της και μεσω μιας ροής συμβαντων ξετυλίγονται μπροστα στα ματια του
 οι ανησυχιες της, ενω στο τελος αποκαλυπτεται η επιρροή που ειχε ο εφιαλτης αυτος στις
 αποφασεις της.
+
 2.2. What would be the summary of its storyline?
-Η νεαρη καλλιτέχνης πασχιζει να τελειωσει το επόμενο έργο της. Αντιμετωπίζοντας τον εαυτό
+
+Η νεαρη καλλιτέχνης πασχιζει να τελειωσει το επόμενο έργο της. Αντιμετωπίζοντας τον εαυτό 
 της τελικά θα καταφέρει να σώσει την καριέρα της;
+
+
+
+
+
 2.3. What is the timeframe of the story?
+
 Το χρονικό πλαίσιο καθοριζετε μεσα απο τα διαφορα στοιχεία που χρησιμοποιούνται από το
 χαρακτήρα, όπως smartphone, διακοσμιση, μουσικη κ.λπ. Με αλλα λόγια υπονοείται ότι το
 χρονοδιάγραμμα είναι κάπου γύρω στο 2023.
+
 2.4. What are the major events or challenges offered by the narrative?
 Η πρωταγωνιστρια μετα απο αγανακτηση με την δυσκολια ολοκληρωσης του εργου της
 αποφασιζει να ξεκουραστεί και την παιρνει ο υπνος. Έπειτα ο εφιάλτης είναι αυτό που πρέπει να
