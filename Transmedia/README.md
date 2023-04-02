@@ -351,3 +351,87 @@ present in the project?
 
 Δεν υπάρχει busisness model
 
+
+7.8. Revenue-wise, was the project successful? Why?
+
+Αυτό το έργο έγινε για μια πανεπιστημιακη εργασία. Θεωρητικά, είχε διανεμηθεί μέσω
+διαδικτυακών υπηρεσιών, τα έσοδά θα υπήρχαν μέσω των διαφημίσεων.
+
+
+8. Engagement
+
+8.1. Through what point of view (PoV) does the VUP experience this world: first-person,
+second-person, third-person, or a mixture of them?
+
+Ο vup βιώνει τον κόσμο του πρότζεκτ μέσα απο την ζωή και τα όνειρα της πρωταγωνιστριας.
+Ετσι η εμπειρία γίνεται στο τρίτο πρόσωπο.
+
+8.2. What role does the VUP play in this project?
+
+Είναι απλώς ένας παρατηρητής, που παρακολουθεί τον κόσμο να χτίζεται γύρω από την
+προταγωνιστρια τα συναισθήματα της αλλά και τα συμβάντα γύρω στη ζωή της.
+
+8.3. How the project keeps the VUP engaged?
+
+Περιέχει περίεργα γεγονότα που εξελίσσονται μπροστά στα μάτια του θεατή μέσα από την
+κορύφωση της φαντασίας και των αισθητικά καλών οπτικών σκηνών που υποβοηθουνται απο την
+μουσική υπόκρουση.
+
+8.4. What are the mechanisms of interaction in this project?
+
+Ο θεατής δεν έχει κάποια εμπλοκή στην υπόθεση της ταινίας. Πέρα από το γεγονος πώς του
+δίνετε η ευκαιρία να φανταστεί ποιά θα ήταν η κατάληξη της πρωταγωνίστριας οσο και να
+απαντήσει στην βασική ερώτηση που γίνεται με τον δικό του τροπο.
+
+8.5. Is there also participation involved in the project? If so, how can the VUP participate in
+the open system?
+
+Δεν διαθέτετε στο θεατη τρόπος για να επέμβει στην εξελιξη της ιστορίας.
+
+
+8.6. Does the project work as cultural attractor/activator?
+
+Οχι
+
+8.7. How does the VUP affect the outcome? What do they add to the storyworld?
+
+Ο θεατης δεν επηρεάζει την ιστορία ωστόσο μπορεί να αποφασίσει πως εξελίχθηκε η ζωή
+/καριέρα της πρωταγωνίστριας μετά το τέλος της ταινίας καθώς δεν γίνεται ξεκάθαρο το πως
+συνέχισε την ζωή της μετά το “συμβάν ”.
+
+8.8. Are there UGC related to the story (parodies, recaps, mash-ups, fan communities, etc.)?
+
+Η υπόθεση της ταινίας ήταν από προσωπική έμπνευση.
+
+8.9. Does the project offer the VUP the possibility of immersion into the storyworld?
+
+Λόγω της έλλειψης αλληλεπίδρασης με το έργο, η εμβάθυνση είναι αρκετά απίθανη. Ωστόσο,
+αν ο θεατής συνδεθεί με τον κύριο χαρακτήρα και βλέπει τον εαυτό του μέσα από εκείνη, μπορεί
+να θεωρηθεί ότι κάποιο επίπεδο βύθισης επιτεύχθηκε.
+
+8.10. Does the project offer the VUP the possibility to take away elements of the story and
+incorporate them into everyday life?
+
+Το νόημα της ιστορίας και τα συναισθήματα που ένιωσε ο VUP μπορεί να θεωρηθεί πως τα έχει
+ενσωματώσει στην καθημερινή του ζωή.
+
+8.11. Is there an important goal that the VUP is trying to accomplish in the project?
+
+Ένας βασικός στόχος που τίθεται για τον VUP είναι η απάντηση του ερωτηματος “what is art
+to you?”. Ωστόσο, ένας ακόμη στόχος ως δημιουργοί, είναι να αυτο-στοχαστουν.
+
+8.12. What will make the VUP want to spend time accomplishing this Goal?
+
+Το κύριο κίνητρο του VUP για την επίτευξη του στόχου είναι μέσω της προσμονής. Δηλαδή,
+πρέπει να παρακολουθήσει όλη τη μικρού μήκους ταινία για να μπορέσει να βιώσει το τέλος,
+δινοντας του ετσι χρονο να σκεφτει την απαντηση του ερωτηματος.
+
+
+8.13. What adds tension to the experience? Are there any ticking Clocks?
+
+Από το τελικό σχέδιο που πρέπει να ολοκληρώσει για τους θαυμαστές της η πρωταγωνιστρια
+έως και απο τον φρικτό εφιάλτη για το τι τελικά θα απογίνει είναι σασπένς της εμπειρίας.
+
+8.14. Is there a system of rewards and penalties?
+
+Δεν υπάρχουν τέτοια συστήματα
