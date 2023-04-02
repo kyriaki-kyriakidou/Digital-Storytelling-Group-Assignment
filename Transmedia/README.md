@@ -435,3 +435,78 @@ to you?”. Ωστόσο, ένας ακόμη στόχος ως δημιουργ
 8.14. Is there a system of rewards and penalties?
 
 Δεν υπάρχουν τέτοια συστήματα
+
+
+9. Structure
+
+
+9.1. When did the transmediation begin? Is it a proactive or retroactive TS project?
+
+Το έργο είναι ένα proactive TS. Απαιτήθηκε για το έργο να δημιουργήσει δύο τύπους μέσων για
+την ίδια ιστορία.
+
+9.2. Is it possible to identify any consequences for the project caused by the fact that this is
+either a pro-active or a retroactive transmedia story?
+
+Δεν υπήρξε κάποια πραγματική συνέπεια λόγω της δημιουργίας των δύο μέσων. Βοήθησε να
+δοθεί μια εικόνα στην ζωή της πρωταγωνιστριας μετά το συμβάν.
+
+9.3. Is this project closer to a transmedia franchise, a portmanteau transmedio story, or a
+complex transmedia experience?
+
+Το έργο είναι πολύ πιο κοντά σε μια ιστορία transmedia. Και τα δυο έργα δημιουργήθηκαν για
+να αλληλοσυμπληρώνονται.
+
+9.4. Can each extension work as on Independent entry point for the Story?
+
+Το ένα παρουσιάζει τη συνέχεια της ιστορίας και αν δεν έχει προηγηθεί η προβολή του βιντεου
+τοτε δεν θα καταλάβει την αναφορά της πρωταγωνιστριας.
+
+9.5. What are/were possible endpoints of the project?
+
+Η παρακολούθηση μιας ταινίας από την αρχή μέχρι το τέλος είναι ο καλύτερος τρόπος
+16
+
+9.6. How is the project structured? What are the major units of Organisation?
+
+Το έργο έγινε από 2 φοιτητές. Οι δουλειές χωριστικαν ανάλογα με τις δυνατότητες του καθενός
+ωστόσο οι τελικές αποφάσεις πάρθηκαν από κοινού. Υπηρχε μια βοήθεια και από εθελοντές που
+προσφέρθηκαν να βοηθήσουν που φυσικά αναφέρονται στους τίτλους τέλους.
+
+9.7. How could a map of the story-world be presented?
+
+Επειδή τα έργα δεν υποστηρίζουν αλληλεπίδραση με το VUPS, ένας τρόπος για να
+παρουσιαστεί ένα story world map είναι μέσω ενός ιστότοπου που για να υπάρχει πρόσβαση στον
+ιστότοπο, στο τέλος κάθε μέσου (ταινία μικρού μήκους, ηχητικού βίντεο) θα υπάρχει ένας
+σύνδεσμος που οδηγεί στην ιστοσελίδα δημιουργώντας μια αίσθηση περιέργειας.
+
+
+10. Aesthetics
+
+
+10.1. What kinds of visuals are being used (animation, video, graphics, a mix) in the
+project?
+
+Για την κύρια ταινία, χρησιμοποιούνται πλάνα βίντεο που τραβήχτηκαν από κάμερα κινητού.
+Για το δευτερεύον βίντεο με τον ραδιοφωνικό σταθμό, χρησιμοποιούνται εικονογραφήσεις που
+δημιουργήθηκαν από την αρχή και δεν πάρθηκαν από κάπου αλλού..
+
+10.2. Is the overall look realistic or a fantasy environment?
+
+Λόγω της υπόθεσης η ταινία χωρίζεται σε δύο φάσεις,μια η οποία εστιάζει στον ρεαλισμό και
+μια η οποία εστιάζει σε σημαντικό βαθμό στην φαντασία.
+
+10.3. Is it possible to identify specific design styles in the project?
+
+Το στυλ είναι μια πιο πειραματική αρτιστικη ταινία αλλά επίσης από πιο visual pleasing ταινιες
+
+10.4. How does audio work in this project? Is there ambient sound (rain, wind, traffic
+noises, etc.), sound effects, music, and so forth?
+
+Καθως το βασικό βίντεο είναι βουβό χρησιμοποιείται ένα μείγμα φυσικών ήχων απο μικρόφωνο
+και ηχητικά εφέ, όλα για να βελτιστοποιηθει και εμβαθύνει την εμπειρία του θεατή. Οι ήχοι και η
+μουσική επιλέχθηκαν και τοποθετήθηκαν στα διάφορα σημεία της ταινίας για να δημιουργήσουν
+τα ανάλογα συναισθήματα της κάθε σκηνής. Ετσι σε σκηνές που ήταν πιο ήρεμες υπήρχε μια πιο
+ομαλή μουσική σε αντίθεση με τις πιο έντονα συναισθηματικά σκηνές που ο ήχος και soundtrack
+ήταν πιο θορυβωδης.
+
