@@ -6,3 +6,4 @@
 ### GitHub Personal Profile: https://github.com/kyriaki-kyriakidou , https://github.com/Evangelia-Triantafyllia-Chatzichristofi
 
 παρακατω ειναι το pdf  για την εργασια μας
+[feelingthesun.docx](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Group-Assignment/files/11547936/feelingthesun.docx)
