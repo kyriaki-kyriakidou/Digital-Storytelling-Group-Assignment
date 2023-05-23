@@ -7,3 +7,4 @@
 
 παρακατω ειναι το pdf  για την εργασια μας
 
+![Screenshot 2021-11-27 20 33 56](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Group-Assignment/assets/125687882/58728d8c-8846-4440-94fd-06c37dd6dfc6)
