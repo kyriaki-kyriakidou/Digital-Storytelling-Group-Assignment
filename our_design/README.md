@@ -7,3 +7,4 @@
 ### GitHub Personal Profile: https://github.com/kyriaki-kyriakidou , https://github.com/Evangelia-Triantafyllia-Chatzichristofi
 
 
+![εικόνα](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Group-Assignment/assets/125687882/1bff3ade-dda2-4277-947f-07801601c1a3)
