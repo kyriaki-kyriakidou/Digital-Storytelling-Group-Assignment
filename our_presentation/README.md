@@ -8,3 +8,6 @@
 παρακατω ειναι το pdf  για την εργασια μας
 
 
+[morfes_afigisis.pdf](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Group-Assignment/files/11629150/morfes_afigisis.pdf)
+
+και είναι και ανεβασμένο στον φάκελο morfes_afigisis που φαίνετε παραπάνω
