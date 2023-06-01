@@ -7,4 +7,4 @@
 ### GitHub Personal Profile: https://github.com/kyriaki-kyriakidou , https://github.com/Evangelia-Triantafyllia-Chatzichristofi
 
 
-και είναι και ανεβασμένο στον φάκελο morfes_word_compressed που φαίνετε παραπάνω
+και είναι και ανεβασμένο στον φάκελο morfes_afigisis_word που φαίνετε παραπάνω
